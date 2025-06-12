@@ -33,7 +33,7 @@ A full-stack AI Healthcare Chatbot built with **Python, Flask**, and a **BERT-ba
 
 This AI Healthcare Chatbot system is a full-stack healthcare assistant platform designed for patients and doctors. The application combines AI-based symptom checking with real-time doctor appointments, offering a full medical assistance experience.
 
-### 🧑‍⚕️ Patient Flow:
+###  Patient Flow:
 1. **User Registration/Login**  
    - Patients can sign up and log in to their personal dashboard.
 
@@ -53,7 +53,7 @@ This AI Healthcare Chatbot system is a full-stack healthcare assistant platform 
 
 ---
 
-### 👨‍⚕️ Doctor Dashboard:
+###  Doctor Dashboard:
 
 1. **Doctor Login**  
    - Doctors have a separate login and dashboard view.
